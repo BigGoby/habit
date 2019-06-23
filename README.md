@@ -61,3 +61,9 @@ filetype indent on
 filetype plugin on
 "启动智能补全
 filetype plugin indent on
+
+
+
+效果图如下:
+
+![Image text](https://github.com/BigGoby/App_website/raw/master/app/static/rd/1.png)
