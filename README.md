@@ -1,6 +1,6 @@
 # habit
 
-vim的个性化配置方案(方便编程)
+## vim的个性化配置方案(方便编程)
 
 在用户主目录下新建vimrc即可。例如：
 
@@ -68,3 +68,7 @@ vim的个性化配置方案(方便编程)
 效果图如下:
 
 ![Image text](https://github.com/BigGoby/habit/raw/master/static/1.png)
+
+
+## windows python第三方包下载地址
+    https://www.lfd.uci.edu/~gohlke/pythonlibs/
