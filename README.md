@@ -73,3 +73,7 @@
 
 ## windows python第三方包下载地址
     https://www.lfd.uci.edu/~gohlke/pythonlibs/
+    
+    
+## 百度AI开放平台
+    https://ai.baidu.com/
