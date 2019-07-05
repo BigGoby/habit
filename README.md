@@ -77,3 +77,6 @@
     
 ## 百度AI开放平台
     https://ai.baidu.com/
+    
+## win7/8 doker-toolbox地址
+    http://mirrors.aliyun.com/docker-toolbox/windows/docker-toolbox/
