@@ -80,3 +80,9 @@
     
 ## win7/8 doker-toolbox地址
     http://mirrors.aliyun.com/docker-toolbox/windows/docker-toolbox/
+    
+## 自建ss服务器教程
+    https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B
+   
+## ShadowSocks使用教程
+    http://blog.sina.com.cn/s/blog_453226290102vohn.html
