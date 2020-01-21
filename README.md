@@ -74,7 +74,6 @@
 ## windows python第三方包下载地址
     https://www.lfd.uci.edu/~gohlke/pythonlibs/
     
-    
 ## 百度AI开放平台
     https://ai.baidu.com/
     
@@ -86,3 +85,14 @@
    
 ## ShadowSocks使用教程
     http://blog.sina.com.cn/s/blog_453226290102vohn.html
+    
+## pycharm 添加作者信息
+  file--> settings --> file and code templace --> python script
+    # !/usr/bin/python3
+    # -*- coding: utf-8 -*-
+    # @Time   : ${DATE} ${TIME}
+    # @Author : Wang HongRui
+    # @Email  : ilikepython@163.com
+    # @File   : ${NAME}.py
+    # @Blog   : https://superbubble.cn
+    # @Motto  : Face the difficulties and march forward!!
