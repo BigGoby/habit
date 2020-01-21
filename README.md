@@ -88,11 +88,11 @@
     
 ## pycharm 添加作者信息
   file--> settings --> file and code templace --> python script
-    # !/usr/bin/python3
-    # -*- coding: utf-8 -*-
-    # @Time   : ${DATE} ${TIME}
-    # @Author : Wang HongRui
-    # @Email  : ilikepython@163.com
-    # @File   : ${NAME}.py
-    # @Blog   : https://superbubble.cn
-    # @Motto  : Face the difficulties and march forward!!
+    "# !/usr/bin/python3
+    "# -*- coding: utf-8 -*-
+    "# @Time   : ${DATE} ${TIME}
+    "# @Author : Wang HongRui
+    "# @Email  : ilikepython@163.com
+    "# @File   : ${NAME}.py
+    "# @Blog   : https://superbubble.cn
+    "# @Motto  : Face the difficulties and march forward!!
